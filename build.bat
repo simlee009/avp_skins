@@ -1,0 +1,1 @@
+pyinstaller --icon avp.ico --onefile --noconsole avp_skins.py
