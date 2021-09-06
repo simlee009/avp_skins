@@ -30,7 +30,9 @@ of the file beforehand.)
 ## Instructions (exe)
 
 Make sure you have AvP installed first, of course. Then download the exe from 
-the GitHub releases or the dist folder.
+the GitHub [releases](https://github.com/simlee009/avp_skins/releases/download/v1.0.0/avp_skins.exe) 
+or the [dist](https://github.com/simlee009/avp_skins/blob/main/dist/avp_skins.exe) 
+folder.
 
 Run it, make sure that it has found the path to your saved game file, and click 
 on the "Load" button. Make any changes you want, and then click "Save".
