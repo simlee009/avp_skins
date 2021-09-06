@@ -8,10 +8,13 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1738932737, but I wanted
 him to have something he could run without having to mess with a hex editor and
 binary files.
 
-## Instructions
+## Instructions (Python script)
 
 This script requires [Python 3](https://www.python.org) and the [Aliens vs. 
 Predator game](https://store.steampowered.com/app/10680/Aliens_vs_Predator/).
+
+You really only need to download avp_skins.py, although avp.ico is nice to have 
+as the icon file used by the GUI.
 
 To run the script, open a PowerShell window and enter:
 
@@ -22,3 +25,12 @@ file. Clicking on the "Load" button should the set the three dropdowns to show
 which skins you have selected for each race. After making any changes, you can
 click on "Save" to update your save file. (You might want to make a backup copy 
 of the file beforehand.) 
+
+
+## Instructions (exe)
+
+Make sure you have AvP installed first, of course. Then download the exe from 
+the GitHub releases or the dist folder.
+
+Run it, make sure that it has found the path to your saved game file, and click 
+on the "Load" button. Make any changes you want, and then click "Save".
